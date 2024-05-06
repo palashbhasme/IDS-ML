@@ -1,2 +1,2 @@
 # IDS-ML
-Intrusion Detection System
+Maxhine Learning study to find optimum algorithm to classify Benign Vs Malicious binary classification with 92 percent accuraccy and high recall
